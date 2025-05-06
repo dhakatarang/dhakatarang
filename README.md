@@ -2,11 +2,11 @@
 ### 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dhakatarang&show_icons=true&theme=radical)
 ### 🔥 GitHub Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=dhakatarang&theme=radical&hide_border=true)](https://git.io/streak-stats)
 ### Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhakatarang&layout=compact&theme=radical)
 ### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dhakatarang&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
