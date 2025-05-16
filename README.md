@@ -1,4 +1,4 @@
-# Hi there 👋,I'm Tarang!
+# Hi there 👋,I'm Tarang
 
 
 
