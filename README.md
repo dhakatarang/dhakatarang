@@ -1,4 +1,8 @@
 # Hi there 👋,I'm Tarang
+## 📊 GitHub Stats
+
+![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=dhakatarang&layout=compact&theme=tokyonight)
+
 
 
 
